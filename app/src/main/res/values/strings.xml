@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lucky Num de la suerte</string>
+    <string name="merlina">¡Lets prove your luck!!</string>
+    <string name="edad"> enter your age</string>
+    <string name="nombre"> enter your name</string>
+    <string name="wego"> lucky number is..  </string>
+</resources>
